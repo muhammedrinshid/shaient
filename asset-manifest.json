@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/shaient/static/css/main.9ced8e1a.css",
+    "main.js": "/shaient/static/js/main.23a91add.js",
+    "static/media/violet.png": "/shaient/static/media/violet.78822bd2cfcebea815f3.png",
+    "static/media/saffron.png": "/shaient/static/media/saffron.6f35d1b8610627ffc6fb.png",
+    "static/media/searching.png": "/shaient/static/media/searching.84a1094b42b21e45dfd1.png",
+    "static/media/grid.png": "/shaient/static/media/grid.06c88783156ca99ab1b6.png",
+    "static/media/Framelogo11.svg": "/shaient/static/media/Framelogo11.4138b1a7d313c451a72298356f63112a.svg",
+    "static/media/Framelogo51.svg": "/shaient/static/media/Framelogo51.19419a2323db7d82fce1f5153dee4f82.svg",
+    "static/media/Framelogo31.svg": "/shaient/static/media/Framelogo31.04fca5ae52e4495b89fae6a606b3d2c0.svg",
+    "static/media/Framelogo21.svg": "/shaient/static/media/Framelogo21.8524bee4b1fc3fc1bf0b5624455242e7.svg",
+    "static/media/arrowleft.svg": "/shaient/static/media/arrowleft.305bbb41212736424474bf5d8e25a377.svg",
+    "static/media/Framelogo61.svg": "/shaient/static/media/Framelogo61.75f7d550d53074b5730c077346ab1120.svg",
+    "static/media/Framelogo41.svg": "/shaient/static/media/Framelogo41.a3e4cc7e6477d48ba32bc795229ca733.svg",
+    "index.html": "/shaient/index.html",
+    "main.9ced8e1a.css.map": "/shaient/static/css/main.9ced8e1a.css.map",
+    "main.23a91add.js.map": "/shaient/static/js/main.23a91add.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ced8e1a.css",
+    "static/js/main.23a91add.js"
+  ]
+}
